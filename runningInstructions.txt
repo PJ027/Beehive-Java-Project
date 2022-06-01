@@ -1,0 +1,13 @@
+Check out the pdf file for the question
+All necessary classes are implemented: Bee,Flower and Main.
+All the appropriate getters/setters and other relevant methods for the class Flower and Bee are implemented.
+All methods are implemented from aDayPasses() to visitFlower().
+Comparable, compareTo and Collection.sort are used for sorting.
+Enum has been used.
+Classes for enum are BeeType and FlowerName.
+Iterators and For Each loop are used to travel through the arraylist.
+RandomSelect is used to randomly selecting items/elements from a list.
+To convert string to integer, parsInt is used.
+The code should run via Eclipse.
+
+
